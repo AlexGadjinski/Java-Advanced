@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. Stacks and Queues/01. Stacks and Queues.iml" filepath="$PROJECT_DIR$/01. Stacks and Queues/01. Stacks and Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. Exercise - Stacks and Queues/02. Exercise - Stacks and Queues.iml" filepath="$PROJECT_DIR$/02. Exercise - Stacks and Queues/02. Exercise - Stacks and Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. Multidimensional Arrays/03. Multidimensional Arrays.iml" filepath="$PROJECT_DIR$/03. Multidimensional Arrays/03. Multidimensional Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. Exercise - Multidimensional Arrays/04. Exercise - Multidimensional Arrays.iml" filepath="$PROJECT_DIR$/04. Exercise - Multidimensional Arrays/04. Exercise - Multidimensional Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. Sets and Maps Advanced/05. Sets and Maps Advanced.iml" filepath="$PROJECT_DIR$/05. Sets and Maps Advanced/05. Sets and Maps Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. Exercise - Sets and Maps Advanced/06. Exercise - Sets and Maps Advanced.iml" filepath="$PROJECT_DIR$/06. Exercise - Sets and Maps Advanced/06. Exercise - Sets and Maps Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. Streams_Files and Directories/07. Streams_Files and Directories.iml" filepath="$PROJECT_DIR$/07. Streams_Files and Directories/07. Streams_Files and Directories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. Exercise - Streams_Files and Directories/08. Exercise - Streams_Files and Directories.iml" filepath="$PROJECT_DIR$/08. Exercise - Streams_Files and Directories/08. Exercise - Streams_Files and Directories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. Functional Programming/09. Functional Programming.iml" filepath="$PROJECT_DIR$/09. Functional Programming/09. Functional Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Exercise - Functional Programming/10. Exercise - Functional Programming.iml" filepath="$PROJECT_DIR$/10. Exercise - Functional Programming/10. Exercise - Functional Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. Defining Classes/11. Defining Classes.iml" filepath="$PROJECT_DIR$/11. Defining Classes/11. Defining Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. Exercise - Defining Classes/12. Exercise - Defining Classes.iml" filepath="$PROJECT_DIR$/12. Exercise - Defining Classes/12. Exercise - Defining Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. Generics/13. Generics.iml" filepath="$PROJECT_DIR$/13. Generics/13. Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. Exercise - Generics/14. Exercise - Generics.iml" filepath="$PROJECT_DIR$/14. Exercise - Generics/14. Exercise - Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17. Exam Preparation/17. Exam Preparation.iml" filepath="$PROJECT_DIR$/17. Exam Preparation/17. Exam Preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18. Regular Exam/18. Regular Exam.iml" filepath="$PROJECT_DIR$/18. Regular Exam/18. Regular Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19. Working with Abstraction/19. Working with Abstraction.iml" filepath="$PROJECT_DIR$/19. Working with Abstraction/19. Working with Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20. Exercise - Working with Abstraction/20. Exercise - Working with Abstraction.iml" filepath="$PROJECT_DIR$/20. Exercise - Working with Abstraction/20. Exercise - Working with Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21. Encapsulation/21. Encapsulation.iml" filepath="$PROJECT_DIR$/21. Encapsulation/21. Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22. Exercise - Encapsulation/22. Exercise - Encapsulation.iml" filepath="$PROJECT_DIR$/22. Exercise - Encapsulation/22. Exercise - Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23. Inheritance/23. Inheritance.iml" filepath="$PROJECT_DIR$/23. Inheritance/23. Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24. Exercise - Inheritance/24. Exercise - Inheritance.iml" filepath="$PROJECT_DIR$/24. Exercise - Inheritance/24. Exercise - Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25. Interfaces and Abstraction/25. Interfaces and Abstraction.iml" filepath="$PROJECT_DIR$/25. Interfaces and Abstraction/25. Interfaces and Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26. Exercise - Interfaces and Abstraction/26. Exercise - Interfaces and Abstraction.iml" filepath="$PROJECT_DIR$/26. Exercise - Interfaces and Abstraction/26. Exercise - Interfaces and Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27. Polymorphism/27. Polymorphism.iml" filepath="$PROJECT_DIR$/27. Polymorphism/27. Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28. Exercise - Polymorphism/28. Exercise - Polymorphism.iml" filepath="$PROJECT_DIR$/28. Exercise - Polymorphism/28. Exercise - Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29. SOLID/29. SOLID.iml" filepath="$PROJECT_DIR$/29. SOLID/29. SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30. Exercise - SOLID/30. Exercise - SOLID.iml" filepath="$PROJECT_DIR$/30. Exercise - SOLID/30. Exercise - SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31. Exam Preparation - 1. Exercise/31. Exam Preparation - 1. Exercise.iml" filepath="$PROJECT_DIR$/31. Exam Preparation - 1. Exercise/31. Exam Preparation - 1. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31. Reflection and Annotation/31. Reflection and Annotation.iml" filepath="$PROJECT_DIR$/31. Reflection and Annotation/31. Reflection and Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32. Exam Preparation - 2. Exercise/32. Exam Preparation - 2. Exercise.iml" filepath="$PROJECT_DIR$/32. Exam Preparation - 2. Exercise/32. Exam Preparation - 2. Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Advanced.iml" filepath="$PROJECT_DIR$/.idea/Java-Advanced.iml" />
+    </modules>
+  </component>
+</project>
